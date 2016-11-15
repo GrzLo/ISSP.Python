@@ -9,7 +9,7 @@ Zadania z pythona
 [Zadanie 5](lista3/zadanie5.py)<br>
 [Zadanie 6](lista3/zadanie6.py)<br>
 <br><br>
-<b>Lista3<b><br>
+<b>Lista4<b><br>
 [Zadanie 1](lista4/zadanie1.py)<br>
 [Zadanie 2](lista4/zadanie2.py)<br>
 [Zadanie 3](lista4/zadanie3.py)<br>
